@@ -1,0 +1,14 @@
+[
+  {
+    "SensorName": "Hőmérséklet",
+    "Value": 41
+  },
+  {
+    "SensorName": "Páratartalom",
+    "Value": 70
+  },
+  {
+    "SensorName": "Víztartály szint",
+    "Value": 67
+  }
+]

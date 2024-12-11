@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSensorData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SensorData>
+    <SensorName>Hőmérséklet</SensorName>
+    <Value>41</Value>
+  </SensorData>
+  <SensorData>
+    <SensorName>Páratartalom</SensorName>
+    <Value>70</Value>
+  </SensorData>
+  <SensorData>
+    <SensorName>Víztartály szint</SensorName>
+    <Value>67</Value>
+  </SensorData>
+</ArrayOfSensorData>

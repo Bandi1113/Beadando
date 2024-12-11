@@ -1,0 +1,9 @@
+C:\Users\radiu\OneDrive\Asztali gép\Beadando\SzenzorhalozatLibrary\SzenzorhalozatLibrary\obj\Debug\SzenzorhalozatLibrary.csproj.AssemblyReference.cache
+C:\Users\radiu\OneDrive\Asztali gép\Beadando\SzenzorhalozatLibrary\SzenzorhalozatLibrary\obj\Debug\SzenzorhalozatLibrary.csproj.CoreCompileInputs.cache
+C:\Users\radiu\OneDrive\Asztali gép\Beadando\SzenzorhalozatLibrary\SzenzorhalozatLibrary\bin\Debug\SzenzorhalozatLibrary.dll
+C:\Users\radiu\OneDrive\Asztali gép\Beadando\SzenzorhalozatLibrary\SzenzorhalozatLibrary\bin\Debug\SzenzorhalozatLibrary.pdb
+C:\Users\radiu\OneDrive\Asztali gép\Beadando\SzenzorhalozatLibrary\SzenzorhalozatLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Users\radiu\OneDrive\Asztali gép\Beadando\SzenzorhalozatLibrary\SzenzorhalozatLibrary\bin\Debug\Newtonsoft.Json.xml
+C:\Users\radiu\OneDrive\Asztali gép\Beadando\SzenzorhalozatLibrary\SzenzorhalozatLibrary\obj\Debug\Szenzorh.FF975AA8.Up2Date
+C:\Users\radiu\OneDrive\Asztali gép\Beadando\SzenzorhalozatLibrary\SzenzorhalozatLibrary\obj\Debug\SzenzorhalozatLibrary.dll
+C:\Users\radiu\OneDrive\Asztali gép\Beadando\SzenzorhalozatLibrary\SzenzorhalozatLibrary\obj\Debug\SzenzorhalozatLibrary.pdb
